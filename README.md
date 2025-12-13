@@ -9,6 +9,10 @@
 
 ## 🚀 Tentang Saya
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250" />
+</p>
+
 <p>
 🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b><br/>
 💻 Tertarik di <b>Web Development & UI/UX</b><br/>
@@ -16,9 +20,7 @@
 📍 Indonesia
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250" />
-</p>
+<br clear="right"/>
 
 ---
 
