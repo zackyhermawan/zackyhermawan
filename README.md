@@ -17,7 +17,7 @@
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" />
+  <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250" />
 </p>
 
 ---
