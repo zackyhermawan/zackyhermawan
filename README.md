@@ -1,4 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="400" />
 <h1 align="center">Hi 👋, Saya Sultan Zacky Hermawan</h1>
 <h3 align="center">Fullstack Web Developer | UI/UX Designer</h3>
 
