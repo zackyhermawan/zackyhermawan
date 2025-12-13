@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Saya Sultan Zacky Hermawan</h1>
 <h3 align="center">Fullstack Web Developer | UI/UX Designer</h3>
+<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zackyhermawan&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,24 +9,11 @@
 ---
 ## 🚀 Tentang Saya
 
-<table width="100%" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-<tr>
-<td width="60%" valign="top" style="border:none; padding-right:20px;">
+- 🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b>
+- 💻 Tertarik di <b>Web Development & UI/UX</b>
+- 📫 Hubungi saya di <b>sultanzacky318@email.com</b>
+- 📍 Indonesia</b>
 
-<p>🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b></p>
-<p>💻 Tertarik di <b>Web Development & UI/UX</b></p>
-<p>📫 Hubungi saya di <b>sultanzacky318@email.com</b></p>
-<p>📍 Indonesia</p>
-
-</td>
-
-<td width="40%" align="right" valign="top" style="border:none;">
-
-<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
