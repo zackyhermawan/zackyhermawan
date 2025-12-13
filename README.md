@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=zackyhermawan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="500" />
 
 <h3>🚀 Tentang Saya</h3>
 
