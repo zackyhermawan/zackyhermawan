@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=zackyhermawan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
 ## 🚀 Tentang Saya
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
@@ -27,8 +25,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ### 🛠 Teknologi
 <p align="left">
