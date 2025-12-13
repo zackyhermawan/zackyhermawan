@@ -7,7 +7,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
----
 ## 🚀 Tentang Saya
 
 - 🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b>
