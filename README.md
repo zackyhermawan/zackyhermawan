@@ -10,7 +10,6 @@
 ### 🚀 Tentang Saya
 - 🌱 Sedang belajar **Vuejs, Laravel, REST API**
 - 💻 Tertarik di **Web Development & UI/UX**
-- 🏆 Aktif di **Web Development Competitions**
 - 📫 Hubungi saya di **sultanzacky318@email.com**
 - 📍 Indonesia
 
@@ -51,5 +50,8 @@
   </a>
   <a href="https://instagram.com/zackyhermawann_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Sultanzakii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
