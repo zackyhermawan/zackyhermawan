@@ -7,7 +7,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
-## 🚀 Tentang Saya
+<h3>🚀 Tentang Saya</h3>
 
 - 🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b>
 - 💻 Tertarik di <b>Web Development & UI/UX</b>
