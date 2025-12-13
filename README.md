@@ -20,7 +20,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/foto-gif.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250"/>
 
 </td>
 </tr>
