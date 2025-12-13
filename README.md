@@ -10,7 +10,7 @@
 ## 🚀 Tentang Saya
 <table>
 <tr>
-<td width="60%">
+<td width="40%">
 
 - 🌱 Sedang belajar **Vuejs, Laravel, REST API**
 - 💻 Tertarik di **Web Development & UI/UX**
@@ -18,7 +18,7 @@
 - 📍 Indonesia
 
 </td>
-<td width="40%" align="center">
+<td width="60%" align="center">
 
 <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250"/>
 
