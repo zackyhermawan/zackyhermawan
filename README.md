@@ -8,9 +8,11 @@
 ---
 
 ### 🚀 Tentang Saya
-- 💻 Web Developer (Frontend & Backend)**
-- 🩸 Tertarik menjadi **Fullstack Developer
+- 🌱 Sedang belajar **Vuejs, Laravel, REST API**
+- 💻 Tertarik di **Web Development & UI/UX**
+- 🏆 Aktif di **Web Development Competitions**
 - 📫 Hubungi saya di **sultanzacky318@email.com**
+- 📍 Indonesia
 
 ---
 ### 🛠 Teknologi
@@ -42,7 +44,7 @@
 
 ---
 
-### 🌐 Berkolaborasi dengan saya
+### 🌐 Connect with me
 <p>
   <a href="https://linkedin.com/in/sultan-zacky-hermawan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
