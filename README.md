@@ -22,7 +22,7 @@
 
 <td width="40%" align="right" valign="top" style="border:none;">
 
-<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/assets/foto-gif.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
 </td>
 </tr>
