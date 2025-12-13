@@ -10,22 +10,22 @@
 ## 🚀 Tentang Saya
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td width="60%" valign="top" style="border:none; padding-right:20px;">
+<tr>
+<td width="60%" valign="top" style="border:none; padding-right:20px;">
 
-      <p>🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b></p>
-      <p>💻 Tertarik di <b>Web Development & UI/UX</b></p>
-      <p>📫 Hubungi saya di <b>sultanzacky318@email.com</b></p>
-      <p>📍 Indonesia</p>
+<p>🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b></p>
+<p>💻 Tertarik di <b>Web Development & UI/UX</b></p>
+<p>📫 Hubungi saya di <b>sultanzacky318@email.com</b></p>
+<p>📍 Indonesia</p>
 
-    </td>
+</td>
 
-    <td width="40%" align="right" valign="top" style="border:none;">
+<td width="40%" align="right" valign="top" style="border:none;">
 
-      <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" /> 
+<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/assets/foto-gif.gif" width="260"/>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
