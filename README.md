@@ -7,13 +7,27 @@
 
 ---
 
-### 🚀 Tentang Saya
+## 🚀 Tentang Saya
+<table>
+<tr>
+<td width="60%">
+
 - 🌱 Sedang belajar **Vuejs, Laravel, REST API**
 - 💻 Tertarik di **Web Development & UI/UX**
 - 📫 Hubungi saya di **sultanzacky318@email.com**
 - 📍 Indonesia
 
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/foto-gif.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 ---
+
 ### 🛠 Teknologi
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
