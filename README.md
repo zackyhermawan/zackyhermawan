@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, Saya Sultan Zacky Hermawan</h1>
 <h3 align="center">Fullstack Web Developer | UI/UX Designer</h3>
-<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zackyhermawan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<img align="right" src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="260"/>
 
 ---
 ## 🚀 Tentang Saya
