@@ -9,18 +9,35 @@
 
 ## 🚀 Tentang Saya
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/zackyhermawan/zackyhermawan/main/main/foto-gif.gif" width="250" />
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+<p>
+🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b>
 </p>
 
 <p>
-🌱 Sedang belajar <b>Vuejs, Laravel, REST API</b><br/>
-💻 Tertarik di <b>Web Development & UI/UX</b><br/>
-📫 Hubungi saya di <b>sultanzacky318@email.com</b><br/>
+💻 Tertarik di <b>Web Development & UI/UX</b>
+</p>
+
+<p>
+📫 Hubungi saya di <b>sultanzacky318@email.com</b>
+</p>
+
+<p>
 📍 Indonesia
 </p>
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="right" valign="top">
+
+<img src="./main/foto-git.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
